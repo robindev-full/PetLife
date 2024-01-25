@@ -24,6 +24,10 @@ header nav a {
     text-decoration: none;
 }
 
+header nav a:hover{
+    color: #263138;
+}
+
 #inicio {
     display: flex;
     align-items: center;  
@@ -46,6 +50,7 @@ h1 , h2 {
 .button {
     background-color: #ff725e;
     padding: 16px 32px ;
+    transition: background 0.2s;
     border-radius: 25px;
     text-decoration: none;
     color: #ffff;
@@ -54,9 +59,22 @@ h1 , h2 {
 .button-transparent {
     background-color: transparent;
     padding: 16px 32px;
+    transition: background 0.2s;
     border-radius: 25px;
     text-underline-offset: 4px;
     color: #ff725e;
+}
+
+.button:hover{
+    background-color: transparent;
+    text-decoration-line: underline ;
+    color: #ff725e;
+}
+
+.button-transparent:hover {
+    background-color: #ff725e;
+    text-decoration: none;
+    color: #ffff;
 }
 
 .absolute {
@@ -121,6 +139,7 @@ h1 , h2 {
     height: 0;
     opacity: 0;
     overflow: hidden;
+    transition: .2s;
 }
 
 .duvida.ativa .P {
@@ -147,8 +166,18 @@ footer .titulo {
 footer nav a {
     color: #263138;
     display: block;
-    margin-bottom: 16px;
+    transition: background 0.2s;
     text-decoration: none;
+}
+footer nav a:hover {
+    display: block;
+    text-decoration: none;
+    color: #ff725e;
+}
+
+footer p a:hover{
+    text-decoration: none;
+    color:#ff725e;
 }
 
 footer p {
@@ -170,4 +199,8 @@ footer p a {
 
 #creditos a {
     color: #ff9a6c;
+}
+
+#creditos a:hover{
+    color: #c71111;
 }
