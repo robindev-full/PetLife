@@ -12,17 +12,24 @@ site de uma Pet Shop feito com funcionalida de contatos e navegação no site. U
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robindev-full)
+- [Projeto Online](https://robindev-full.github.io/PetLife/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robindev-full)
 
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Git , Github.
+- Javascript
+-  HTML
+-  CSS
+-  Git
+- Github
 
 
 ## Aprendizados
 
-responsividade ,interatividade,função em JS.
+responsividade 
+interatividade 
+função em JS
 
 
 ## Licença
@@ -32,13 +39,13 @@ responsividade ,interatividade,função em JS.
 
 ## Screenshots
 
-![clinica](https://github.com/robindev-full/PetLife/assets/153201552/83836463-a5eb-457a-a125-1b4fd3cac4b0)
+- ![clinica](https://github.com/robindev-full/PetLife/assets/153201552/83836463-a5eb-457a-a125-1b4fd3cac4b0)
 
-![farmacia](https://github.com/robindev-full/PetLife/assets/153201552/07b02463-25b5-4a6f-b3ae-c7bbac298b44)
+- ![farmacia](https://github.com/robindev-full/PetLife/assets/153201552/07b02463-25b5-4a6f-b3ae-c7bbac298b44)
 
-![duvidas](https://github.com/robindev-full/PetLife/assets/153201552/cb4639eb-4a4f-4047-a5d7-51586e4de51c)
+- ![duvidas](https://github.com/robindev-full/PetLife/assets/153201552/cb4639eb-4a4f-4047-a5d7-51586e4de51c)
 
-![fooo](https://github.com/robindev-full/PetLife/assets/153201552/e65f1add-61fe-45b6-8c95-e73f3b65b091)
+- ![fooo](https://github.com/robindev-full/PetLife/assets/153201552/e65f1add-61fe-45b6-8c95-e73f3b65b091)
 
 
 
@@ -46,7 +53,10 @@ responsividade ,interatividade,função em JS.
 
 ## Stack utilizada
 
-**Front-end:** HTML,CSS,JavaScript
+**Front-end:** 
+- HTML
+- CSS
+- JavaScript
 
 
 
